@@ -12,7 +12,11 @@ public class PrimeFactors {
 			}
 			divisor++;
 		}
+		//res
+
 		return factors;
+
+
 	}
 
 	public static void main(String[] args) {
